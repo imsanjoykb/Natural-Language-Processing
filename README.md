@@ -7,3 +7,5 @@ Natural Language Processing For Beginners
 
 Downloading and install library
 
+Word Bigram
+
