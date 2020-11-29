@@ -17,3 +17,5 @@ Finding Unusual Word
 
 Finding Potential Word
 
+Classify News Document
+
