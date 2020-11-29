@@ -20,3 +20,5 @@ Finding Potential Word
 Classify News Document
 
 Classify Parts of speech
+
+Classify Bag words
