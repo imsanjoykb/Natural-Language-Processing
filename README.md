@@ -28,3 +28,5 @@ Classify website
 Twitter Search
 
 NLTK Library
+
+Word data analysis
