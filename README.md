@@ -32,3 +32,5 @@ NLTK Library
 Word data analysis
 
 Creating a POS Tagger
+
+Parts of Speech
