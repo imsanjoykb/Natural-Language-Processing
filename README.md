@@ -38,3 +38,5 @@ Parts of Speech
 Classify News Documents
 
 N Grams
+
+BiGrams Stemming
