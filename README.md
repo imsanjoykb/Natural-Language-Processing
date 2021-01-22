@@ -42,3 +42,5 @@ N Grams
 BiGrams Stemming
 
 Finding Unusual Word
+
+Sentiment Analysis with NLTK
