@@ -49,4 +49,6 @@ Sentiment Analysis with NLTK
 
 Twitter Search
 
+Langdetect Langid library
+
 ### Sanjoy Biswas
