@@ -51,4 +51,6 @@ Twitter Search
 
 Langdetect Langid library
 
+Finding unusual word
+
 ### Sanjoy Biswas
