@@ -53,4 +53,6 @@ Langdetect Langid library
 
 Finding unusual word
 
+Text Manipulation
+
 ### Sanjoy Biswas
